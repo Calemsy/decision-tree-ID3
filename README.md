@@ -31,3 +31,5 @@ Machine Learning Algorithm ID3 of Decision Tree( java )
 	**minisoPorbe.data**：minMNISTDecisionTree.c产生的训练集合</br>
 	**minisoTraining.data**：minMNISTDecisionTree.c产生的测试集合</br>
 **MNISTtree.data**：MNIST数据产生的决策树的构造规则</br>
+
+[详细介绍](http://blog.csdn.net/robin_xu_shuai/article/details/74011205#)
